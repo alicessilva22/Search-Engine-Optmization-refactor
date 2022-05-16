@@ -18,6 +18,11 @@ An id was added to code to fix problem
 ```html
 <article id="search-engine-optimization"
 ```
+- In the index.html file
+all 'div' were replace by html tags.
+Comments were added to each change for description.
+- An alt description was added to every image in index.html 
+- 
 
 ## Visuals
 ![Horiseon full page](./assets/images/Horiseon%20full%20site.png)
