@@ -10,7 +10,7 @@
 ## Usage
 
 ## Visuals
-
+![Horiseon full page](./assets/images/Horiseon%20full%20site.png)
 ## Resources
 
 - [Repository](https://github.com/alicessilva22/seo-refactor)
