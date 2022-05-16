@@ -11,5 +11,10 @@
 
 ## Visuals
 
+## Resources
+
+- [Repository](https://github.com/alicessilva22/seo-refactor)
+- [Live Site](https://github.com/alicessilva22/seo-refactor)
+
 
 
