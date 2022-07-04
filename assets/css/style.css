@@ -108,6 +108,7 @@ img {
     color: #ffffff;
 }
 
+/* aside */
 .benefit img {
     max-height: 200px;
 }
@@ -116,6 +117,8 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer */
 
 footer {
     padding: 30px;
